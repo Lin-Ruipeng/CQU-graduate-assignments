@@ -18,7 +18,8 @@ CQU-graduate-assignments/
 ├── 微机电系统设计与仿真/              # 微机电系统设计与仿真
 │   └── MEMS-Report.pdf             — MEMS — Accelerometer Calibration Report
 ├── 现代数字信号处理/                  # 现代数字信号处理
-│   └── 【报告】数字信号处理.pdf       — Digital Signal Processing — Kalman Filter Report
+│   ├── 【报告】数字信号处理.pdf       — Digital Signal Processing — Kalman Filter Report
+│   └── 【课堂展示】什么是频域.pptx    — Digital Signal Processing — Frequency Domain Presentation
 ├── 自然辩证法/                       # 自然辩证法概论
 │   └── 【终稿】自然辩证法作业.pdf      — Dialectics of Nature — Philosophy of Technology Essay
 └── 学术规范与研究生论文写作指导/        # 学术规范与研究生论文写作指导
@@ -37,7 +38,7 @@ CQU-graduate-assignments/
 | 图论与网络最优化方法 | `图论报告.pdf` | 旅游路线规划——TSP 问题建模与 2-opt 算法求解 |
 | 网络体系结构与协议 | `城域以太网综述.pdf` | 城域以太网技术综述——从基础承载到智能云化的演进 |
 | 微机电系统设计与仿真 | `MEMS-Report.pdf` | MEMS 电容式加速度计标定方法——文献综述与手机 IMU 标定复现 |
-| 现代数字信号处理 | `【报告】数字信号处理.pdf` | 基于智能手机 IMU 数据的卡尔曼滤波姿态估计算法设计与实现 |
+| 现代数字信号处理 | `【报告】数字信号处理.pdf`、`【课堂展示】什么是频域.pptx` | 卡尔曼滤波姿态估计算法设计 + 频域课堂展示 |
 | 自然辩证法概论 | `【终稿】自然辩证法作业.pdf` | 从"理性铁笼"到"感性解放"——论技术本质中控制与解放的辩证博弈 |
 | 学术规范与研究生论文写作指导 | `AcademicWritingReport.pdf` | 研究生学术规范与论文写作指导课程报告 |
 
