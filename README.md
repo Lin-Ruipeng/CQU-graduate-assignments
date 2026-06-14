@@ -22,6 +22,8 @@ CQU-graduate-assignments/
 │   └── 【课堂展示】什么是频域.pptx    — Digital Signal Processing — Frequency Domain Presentation
 ├── 自然辩证法/                       # 自然辩证法概论
 │   └── 【终稿】自然辩证法作业.pdf      — Dialectics of Nature — Philosophy of Technology Essay
+├── 智能控制理论及应用/                # 智能控制理论及应用
+│   └── 智能控制报告.pdf              — Intelligent Control — BM/RBM Review & Fuzzy-PID Simulation
 └── 学术规范与研究生论文写作指导/        # 学术规范与研究生论文写作指导
     └── AcademicWritingReport.pdf   — Academic Writing — Research Standards & Academic Writing Report
 ```
@@ -40,15 +42,15 @@ CQU-graduate-assignments/
 | 微机电系统设计与仿真 | `MEMS-Report.pdf` | MEMS 电容式加速度计标定方法——文献综述与手机 IMU 标定复现 |
 | 现代数字信号处理 | `【报告】数字信号处理.pdf`、`【课堂展示】什么是频域.pptx` | 卡尔曼滤波姿态估计算法设计 + 频域课堂展示 |
 | 自然辩证法概论 | `【终稿】自然辩证法作业.pdf` | 从"理性铁笼"到"感性解放"——论技术本质中控制与解放的辩证博弈 |
+| 智能控制理论及应用 | `智能控制报告.pdf` | 玻尔兹曼机与受限玻尔兹曼机综述 + 传统PID与模糊PID控制仿真对比 |
 | 学术规范与研究生论文写作指导 | `AcademicWritingReport.pdf` | 研究生学术规范与论文写作指导课程报告 |
 
 ### 🔄 待补充 | Coming Soon
 
-以下两门课程的报告将在结课后补充上传：
+以下课程的报告将在结课后补充上传：
 
 | 课程名称 | 状态 |
 |---------|------|
-| 智能控制理论及应用 | 📌 尚未结课，待后续补充 |
 | 仪器可靠性设计 | 📌 尚未结课，待后续补充 |
 
 ---
