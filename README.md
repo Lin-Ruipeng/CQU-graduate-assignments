@@ -11,6 +11,9 @@
 CQU-graduate-assignments/
 ├── 数值分析/                        # 数值分析
 │   └── 数值分析课后习题.pdf          — Numerical Analysis — Homework Solutions
+├── 硕士英语/                        # 硕士英语
+│   ├── What-is-Success.pptx         — Master's English — Oral Presentation: "What is Success"
+│   └── SpeechNotes.docx             — Master's English — Speech Script for Oral Presentation
 ├── 图论及应用/                      # 图论与网络最优化方法
 │   └── 图论报告.pdf                 — Graph Theory — Comprehensive Application Report
 ├── 网络体系结构与协议/                # 网络体系结构与协议
@@ -37,6 +40,7 @@ CQU-graduate-assignments/
 | 课程名称 | 文件 | 说明 |
 |---------|------|------|
 | 数值分析 | `数值分析课后习题.pdf` | 涵盖线性方程组、特征值计算、插值法、数值积分等课后习题解答 |
+| 硕士英语 | `What-is-Success.pptx`、`SpeechNotes.docx` | 口语展示：What is Success |
 | 图论与网络最优化方法 | `图论报告.pdf` | 旅游路线规划——TSP 问题建模与 2-opt 算法求解 |
 | 网络体系结构与协议 | `城域以太网综述.pdf` | 城域以太网技术综述——从基础承载到智能云化的演进 |
 | 微机电系统设计与仿真 | `MEMS-Report.pdf` | MEMS 电容式加速度计标定方法——文献综述与手机 IMU 标定复现 |
@@ -59,7 +63,7 @@ CQU-graduate-assignments/
 
 - 所有文档均使用 **Microsoft Word 2021** / **WPS** / **Typora**/ **Latex** 排版编辑
 - 部分报告包含 **Python** 源代码附录（如卡尔曼滤波器、TSP 求解器等）
-- 报告格式为 **PDF**，兼容主流阅读器
+- 报告格式为 **PDF** / **Word** / **PowerPoint**，兼容主流阅读器
 
 ---
 
